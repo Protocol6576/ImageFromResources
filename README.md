@@ -1,1 +1,3 @@
 # ImageFromResources
+
+Фото из ресурсов
